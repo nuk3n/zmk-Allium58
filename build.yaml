@@ -20,6 +20,6 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: lily58_left
+    shield: Allium58_left
   - board: nice_nano_v2
-    shield: lily58_right
+    shield: Allium58_right
